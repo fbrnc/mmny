@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Aoe_Light>
+            <version>1.0.0</version>
+        </Aoe_Light>
+    </modules>
+    <global>
+        <blocks>
+            <aoe_light>
+                <class>Aoe_Light_Block</class>
+            </aoe_light>
+        </blocks>
+        <helpers>
+            <aoe_light>
+                <class>Aoe_Light_Helper</class>
+            </aoe_light>
+        </helpers>
+        <models>
+            <aoe_light>
+                <class>Aoe_Light_Model</class>
+            </aoe_light>
+        </models>
+        <resources>
+            <aoe_light_setup>
+                <setup>
+                    <module>Aoe_Light</module>
+                </setup>
+            </aoe_light_setup>
+        </resources>
+    </global>
+</config>
