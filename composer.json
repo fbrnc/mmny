@@ -5,9 +5,7 @@
     "aoepeople/composer-installers": "*",
     "aoepeople/envsettingstool": "*",
     "aoepeople/magento-deployscripts": "*",
-    "openmage/magento-lts": "1.9.1.*",
-    "aoepeople/aoe_templatehints": "*",
-    "aoepeople/aoe_scheduler": "*"
+    "openmage/magento-lts": "1.9.2.*"
   },
   "config": {
     "bin-dir": "tools"
