@@ -4,6 +4,7 @@
   "require": {
     "aoepeople/composer-installers": "*",
     "aoepeople/envsettingstool": "*",
+    "aoepeople/aoe_templatehints": "*",
     "aoepeople/magento-deployscripts": "*",
     "openmage/magento-lts": "1.9.2.*"
   },
