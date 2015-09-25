@@ -5,6 +5,7 @@
     "aoepeople/composer-installers": "*",
     "aoepeople/envsettingstool": "*",
     "aoepeople/aoe_templatehints": "*",
+    "aoepeople/aoe_cartapi": "*",
     "aoepeople/magento-deployscripts": "*",
     "openmage/magento-lts": "1.9.2.*"
   },
